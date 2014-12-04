@@ -31,4 +31,4 @@ Issues
 
 - Latency with finding anagram matches for large 500,000 word set.
   - *TODO: Profile code*
-  - *TODO: Use `setTimeout` and `clearTimeout` to control when anagram matches are performed. (.5s - 1s).
+  - <s>TODO: Use `setTimeout` and `clearTimeout` to control when anagram matches are performed. (.5s - 1s).</s>
